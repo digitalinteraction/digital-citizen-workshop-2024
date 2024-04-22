@@ -2,16 +2,16 @@
 layout: html.njk
 ---
 
-<div class="hero">
+<div class="hero" id="home">
   <img src="/assets/hero.jpg" class="hero-background" />
   <div class="hero-body">
     <center-layout gutters="s-1">
-      <p>Quickly get started with Eleventy and Alembic</p>
+      <p>{{ hero }}</p>
     </center-layout>
   </div>
 </div>
 
-<main class="siteMain" id="home">
+<main class="siteMain">
   <center-layout space="s0" gutters="s-1" class="flow">
     {{ content | safe }}
   </center-layout>

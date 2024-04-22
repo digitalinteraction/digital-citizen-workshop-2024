@@ -66,3 +66,19 @@ html {
   gap: var(--s0);
   margin: 0;
 }
+
+/* Non-template changes */
+
+.siteHeader {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: var(--s-5) solid #291b0f;
+  z-index: 1;
+}
+.hero-body p {
+  font-size: 1.4em;
+}
+em {
+  font-weight: 600;
+}
