@@ -1,11 +1,17 @@
 {
   "primary": [
-    { "text": "Call for Participation", "href": "/#call-for-participation" },
-    { "text": "Workshop Activities", "href": "/#workshop-activities" },
+    { "text": "Home", "href": "/#home" },
+    { "text": "Activities", "href": "/#workshop-activities" },
     {
       "text": "Organizers",
       "href": "/#organizers"
     }
   ],
-  "secondary": [{ "text": "back to top", "href": "/#home" }]
+  "secondary": [
+    { "text": "Back to top", "href": "/#home" },
+    {
+      "text": "View source",
+      "href": "https://github.com/digitalinteraction/digital-citizen-workshop-2024"
+    }
+  ]
 }
