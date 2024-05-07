@@ -85,7 +85,7 @@ html {
 .siteHeader {
   position: sticky;
   top: 0;
-  background: white;
+  background: var(--background);
   border-bottom: var(--s-5) solid #291b0f;
   z-index: 1;
 }
