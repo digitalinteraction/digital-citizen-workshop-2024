@@ -16,7 +16,7 @@ The workshop will galvanise a critical position around the ‘Digital Citizen’
 
 **To participate**: attendees are asked to submit (via email to the workshop chairs – ([david.kirk@newcastle.ac.uk](mailto:david.kirk@newcastle.ac.uk)) a 1-page (500 word) position paper (.docx or .pdf) addressing the workshop themes and challenges, or for industry practitioners - case study materials of a similar size, detailing an ongoing citizen-centred design project to be discussed at the workshop.
 
-Please submit your position paper by (extended deadline) Friday 31st May (AoE time).
+Please submit your position paper by end of day (extended deadline) Friday 31st May (AoE time).
 
 ## Workshop Activities
 
